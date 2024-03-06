@@ -1,6 +1,6 @@
 # ChatBot Flowchart: Creating Nodes Flowchart For your Chatbot
 
-![Chat](./flowchart_frontend/public/images/screenshot.png)
+![Chat](./flowchart_frontend/public/images/screenshot2.png)
 
 ## Folders 🚀
 
